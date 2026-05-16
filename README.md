@@ -16,6 +16,37 @@ kodo sem večkrat spremenil da sem testiral in commital spremembe,da sem videl �
 Vercel Production URL:
 https://real-phone-website.vercel.app/
 
+## Screenshot dokuementacija
+![screenshot 1st commit](images/first-commit.png)
+
+prvi-commit
+
+![screenshot 2st commit](images/second-commit.png)
+
+
+drugi-commit
+
+![screenshot 3st commit](images/third-commit.png)
+
+
+tretji-commit
+
+![screenshot 4st commit](images/fourth-commit.png)
+
+
+četrti-commit
+
+![screenshot vercel deployments](images/vercel-deployments.png)
+
+
+Vercel deployments
+
+![screenshot 1st commit](images/enviromental-variables.png)
+
+
+Enviromental-variables
+
+
 ## CI/CD
 Samodejni deploy se izvede,ko narediš spremembo v kodi in želiš da se samodejno sprememba kode samodejno objavi in deploya na vercelu torej z ukazi git add. in git commit in git push se morajo
 spremembe samodejno shraniti v vercelu.
